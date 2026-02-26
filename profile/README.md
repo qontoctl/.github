@@ -3,7 +3,7 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/alexey-pelykh/qontoctl?style=flat&logo=github)](https://github.com/alexey-pelykh/qontoctl)
 [![License](https://img.shields.io/github/license/alexey-pelykh/qontoctl)](https://www.gnu.org/licenses/agpl-3.0.txt)
 [![CI](https://img.shields.io/github/check-runs/alexey-pelykh/qontoctl/main)](https://github.com/alexey-pelykh/qontoctl/actions/workflows/ci.yml)
-[![npm](https://img.shields.io/npm/v/@qontoctl/cli)](https://www.npmjs.com/package/@qontoctl/cli)
+[![npm](https://img.shields.io/npm/v/qontoctl)](https://www.npmjs.com/package/qontoctl)
 
 CLI and MCP server for the [Qonto](https://qonto.com) banking API.
 
