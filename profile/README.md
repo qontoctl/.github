@@ -1,4 +1,4 @@
-# QontoCtl: The Complete CLI & MCP for Qonto
+![QontoCtl: The Complete CLI & MCP for Qonto](assets/social-preview.png)
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/alexey-pelykh/qontoctl?style=flat&logo=github)](https://github.com/alexey-pelykh/qontoctl)
 [![License](https://img.shields.io/github/license/alexey-pelykh/qontoctl)](https://www.gnu.org/licenses/agpl-3.0.txt)
